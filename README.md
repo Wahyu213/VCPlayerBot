@@ -17,6 +17,7 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 
 </details>
 
+---
 ## Recommended Optional Vars
 
 1. `DATABASE_URI`: MongoDB database Url, get from [mongodb](https://cloud.mongodb.com). This is an optional var, but it is recomonded to use this to experiance the full features.
