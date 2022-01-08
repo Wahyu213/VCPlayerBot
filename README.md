@@ -1,13 +1,21 @@
 # VCPlayerBot
 Telegram bot to stream videos in telegram voicechat for both groups and channels. Supports live steams, YouTube videos and telegram media.
 
-## Config Vars:
-### Mandatory Vars
-1. `API_ID` : Get From [my.telegram.org](https://my.telegram.org/)
-2. `API_HASH` : Get from [my.telegram.org](https://my.telegram.org)
-3. `BOT_TOKEN` : [@Botfather](https://telegram.dog/BotFather)
-4. `SESSION_STRING` : Generate From here [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://replit.com/@Wahyu2131/String-Okaeri-Userbot)
-5. `CHAT` : ID of Channel/Group where the bot plays Music.
+---
+
+## Variables
+<details>
+  <summary><b>See Variables</b></summary>
+<br/>
+
+### Pre Requisites 
+- `API_ID` : Get from [my.telegram.org](https://my.telegram.org/app)
+- `API_HASH` : Get from [my.telegram.org](https://my.telegram.org/app)
+- `BOT_TOKEN` : Get From [@Botfather](https://telegram.dog/BotFather)
+- `SESSION_STRING` : Generate From here [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://replit.com/@Wahyu2131/String-Okaeri-Userbot)
+- `Chat` : ID of Channel/Group where the bot plays Music.
+
+</details>
 
 ## Recommended Optional Vars
 
