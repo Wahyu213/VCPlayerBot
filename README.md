@@ -58,17 +58,6 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Wahyu213/VCPlayerBot.git)
 
- 
-## Deploy to VPS
-
-```sh
-git clone https://github.com/Wahyu213/VCPlayerBot
-cd VCPlayerBot
-pip3 install -r requirements.txt
-# <Create Variables appropriately (.env [optional])>
-python3 main.py
-```
-
 ## Features
 
 - Playlist, queue.
