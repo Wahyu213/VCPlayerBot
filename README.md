@@ -75,12 +75,6 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 - Automatic restart even if heroku restarts. (Configurable)
 - Support exporting and importing playlist.
 
-
-## LICENSE
-
-- [GNU General Public License](./LICENSE)
-
-
 ## CREDITS
 
 - [Laky](https://github.com/Laky-64) for [py-tgcalls](https://github.com/pytgcalls/pytgcalls)
